@@ -1,0 +1,15 @@
+C:\Users\facec.lab01\source\repos\ImprimeConsoantes\ImprimeConsoantes\bin\Debug\net6.0\ImprimeConsoantes.exe
+C:\Users\facec.lab01\source\repos\ImprimeConsoantes\ImprimeConsoantes\bin\Debug\net6.0\ImprimeConsoantes.deps.json
+C:\Users\facec.lab01\source\repos\ImprimeConsoantes\ImprimeConsoantes\bin\Debug\net6.0\ImprimeConsoantes.runtimeconfig.json
+C:\Users\facec.lab01\source\repos\ImprimeConsoantes\ImprimeConsoantes\bin\Debug\net6.0\ImprimeConsoantes.dll
+C:\Users\facec.lab01\source\repos\ImprimeConsoantes\ImprimeConsoantes\bin\Debug\net6.0\ImprimeConsoantes.pdb
+C:\Users\facec.lab01\source\repos\ImprimeConsoantes\ImprimeConsoantes\obj\Debug\net6.0\ImprimeConsoantes.csproj.AssemblyReference.cache
+C:\Users\facec.lab01\source\repos\ImprimeConsoantes\ImprimeConsoantes\obj\Debug\net6.0\ImprimeConsoantes.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\facec.lab01\source\repos\ImprimeConsoantes\ImprimeConsoantes\obj\Debug\net6.0\ImprimeConsoantes.AssemblyInfoInputs.cache
+C:\Users\facec.lab01\source\repos\ImprimeConsoantes\ImprimeConsoantes\obj\Debug\net6.0\ImprimeConsoantes.AssemblyInfo.cs
+C:\Users\facec.lab01\source\repos\ImprimeConsoantes\ImprimeConsoantes\obj\Debug\net6.0\ImprimeConsoantes.csproj.CoreCompileInputs.cache
+C:\Users\facec.lab01\source\repos\ImprimeConsoantes\ImprimeConsoantes\obj\Debug\net6.0\ImprimeConsoantes.dll
+C:\Users\facec.lab01\source\repos\ImprimeConsoantes\ImprimeConsoantes\obj\Debug\net6.0\refint\ImprimeConsoantes.dll
+C:\Users\facec.lab01\source\repos\ImprimeConsoantes\ImprimeConsoantes\obj\Debug\net6.0\ImprimeConsoantes.pdb
+C:\Users\facec.lab01\source\repos\ImprimeConsoantes\ImprimeConsoantes\obj\Debug\net6.0\ImprimeConsoantes.genruntimeconfig.cache
+C:\Users\facec.lab01\source\repos\ImprimeConsoantes\ImprimeConsoantes\obj\Debug\net6.0\ref\ImprimeConsoantes.dll
